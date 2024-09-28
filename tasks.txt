@@ -1,0 +1,2 @@
+1:Estudar Python:False
+2:Todos os scripts python:True
